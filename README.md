@@ -37,7 +37,7 @@ const Sam = {
 -->
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sam-Golpasand&show_icons=true&include_all_commits=true&theme=onedark" alt="Sam's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sam-Golpasand&show_icons=true&include_all_commits=true&theme=onedark&count_private=true" alt="Sam's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
