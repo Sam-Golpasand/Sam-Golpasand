@@ -7,32 +7,24 @@
 <p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
+  <li>👋 Hi, I’m @Sam-Golpasand</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
-  <li>💼 I'm a Front end developer at Crediometer.</li>
+  <li>🌱 I’m currently learning Web Development, Javascript and Python.</li>
+  <li>💼 I'm a Full Stack developer.</li>
   <li>🧐 Portfolio Website, WIP</li>
 </ul>
 
 #### A little more about me
 ```javascript
-const badri = {
+const Sam = {
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      frontend: ["HTML", "CSS", "JS", "Tailwind", "Bootstrap"],
       backend: ["Flask", "JS"],
   }
 }
 ```
-
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
 
 #### Popular Projects
 <a href="https://github.com/Sam-Golpasand/Sneaker76">
