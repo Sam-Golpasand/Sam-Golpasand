@@ -10,7 +10,7 @@
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning React and Django</li>
   <li>💼 I'm a Full Stack developer.</li>
-  <li>🧐 Portfolio Website, WIP</li>
+  <li>🧐 Portfolio Website, https://samgolpasand.com</li>
 </ul>
 
 #### A little more about me
