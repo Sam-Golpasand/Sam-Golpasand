@@ -16,11 +16,11 @@
 #### A little more about me
 ```javascript
 const Sam = {
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  code: ["Javascript", "Python", "HTML", "CSS"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Tailwind", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "Javascript", "Tailwind", "Bootstrap"],
+      backend: ["Flask", "Node.JS"],
   }
 }
 ```
@@ -37,16 +37,16 @@ const Sam = {
 -->
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sam-Golpasand&show_icons=true&include_all_commits=true&theme=onedark&count_private=true" alt="Sam's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sam-Golpasand&show_icons=true&include_all_commits=true&theme=andromeda&count_private=true" alt="Sam's github stats" />
 </a>
 <br />
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sam-Golpasand&layout=compact&theme=onedark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sam-Golpasand&layout=compact&theme=andromeda&count_private=true" />
 </a>
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Golpasand&theme=onedark&count_private=true" alt="Sam-Golpasand" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Golpasand&theme=andromeda&count_private=true" alt="Sam-Golpasand" />
 </p>
