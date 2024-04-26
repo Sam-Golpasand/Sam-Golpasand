@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0034f0&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+Software+Artisan;I'm+a+Flask+developer" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I am a Full-Stack developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <ul>
   <li>👋 Hi, I’m @Sam-Golpasand</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
@@ -19,7 +19,7 @@ const Sam = {
   code: ["Javascript", "Python", "HTML", "CSS"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
   technologies: {
-      frontend: ["HTML", "CSS", "Javascript", "Tailwind", "Bootstrap"],
+      frontend: ["React", "HTML", "CSS", "Javascript", "Tailwind", "Bootstrap"],
       backend: ["Flask", "Node.JS"],
   }
 }
