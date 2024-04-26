@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Sam-Golpasand">Sam Golpasand</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0034f0&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+Software+Artisan;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=b84945&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+Software+Artisan;I'm+a+Flask+developer" /></a>
 </p>
 <p>I am a Full-Stack developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <ul>
