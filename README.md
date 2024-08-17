@@ -16,11 +16,11 @@
 #### A little more about me
 ```javascript
 const Sam = {
-  code: ["Javascript", "Python", "HTML", "CSS"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  askMeAbout: ["Full-Stack Engineer", "web dev", "frontend dev"],
   technologies: {
       frontend: ["React", "HTML", "CSS", "Javascript", "Tailwind", "Bootstrap"],
-      backend: ["Flask", "Node.JS"],
+      backend: ["NextJS", "Flask"],
   }
 }
 ```
