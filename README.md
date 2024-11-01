@@ -4,7 +4,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=3000e8&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+developer;I'm+a+Software+Artisan;I'm+a+React+developer" /></a>
 </p>
-<p>I am a Full-Stack developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<p>I am a Full-Stack developer</p>
 <ul>
   <li>👋 Hi, I’m @Sam-Golpasand</li>
   <li>❤️ I love Creating webapps and mobile apps in NextJS and React Native</li>
