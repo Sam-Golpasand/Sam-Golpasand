@@ -5,7 +5,7 @@
 <ul>
   <li>👋 Hi, I’m @Sam-Golpasand</li>
   <li>❤️ I love Creating webapps and mobile apps in NextJS and React Native</li>
-  <li>🌱 I’m currently learning Expo (React Native)</li>
+  <li>🌱 I’m currently learning how to implement AI to some of my projects</li>
   <li>💼 I'm a Full Stack developer.</li>
   <li>🧐 Portfolio Website, https://samgolpasand.com </li>
 </ul>
