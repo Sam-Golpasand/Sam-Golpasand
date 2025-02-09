@@ -32,22 +32,4 @@ const Sam = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
 </a>
 -->
-#### Stats
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sam-Golpasand&show_icons=true&include_all_commits=true&theme=onedark&count_private=true" alt="Sam's github stats" />
-</a>
-</p>
-<br />
-<br />
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sam-Golpasand&layout=compact&theme=onedark&count_private=true" />
-</a>
-</p>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Golpasand&theme=onedark&count_private=true" alt="Sam-Golpasand" />
-</p>
+
