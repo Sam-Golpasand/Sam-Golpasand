@@ -14,10 +14,11 @@
 ```javascript
 const Sam = {
   code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  askMeAbout: ["Full-Stack Engineer", "web dev", "frontend dev"],
+  askMeAbout: ["Full-Stack", "web dev", "AI"],
   technologies: {
       frontend: ["React", "HTML", "CSS", "Javascript", "Tailwind", "Bootstrap"],
       backend: ["NextJS", "Flask"],
+      database: ["Supabase", "SQL"],
   }
 }
 ```
