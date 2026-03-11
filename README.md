@@ -13,6 +13,7 @@ Location: Copenhagen, Denmark
 Languages: JavaScript, TypeScript,
            Java, SQL, C, php
            HTML, CSS
-Hobbies: Homelabbing, Climbing, Cutting hair, Japanese
+Hobbies: Homelabbing, Climbing,
+         Cutting hair, Learning Japanese
 Discord: samtheman11230
 ```
