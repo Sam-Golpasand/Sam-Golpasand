@@ -2,15 +2,14 @@
 > neofetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/74829295?v=4" alt="Me lol" width="320" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/74829295?v=4" alt="Me lol" width="260" /> 
 
 ```csharp
 Sam-Golpasand@github
 -------------------------
 OS: Fedora
 Shell: zsh 5.8
-Pronouns: He/Him
-Location: Copenhagen Denmark
+Location: Copenhagen, Denmark
 Languages: JavaScript, TypeScript,
            Java, SQL, C, php
            HTML, CSS
