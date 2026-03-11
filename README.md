@@ -1,36 +1,23 @@
-<p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/Sam-Golpasand">Sam Golpasand</a>'s Profile 👋</h1>
-</p>
-<p>I am a Full-Stack developer</p>
-<ul>
-  <li>👋 Hi, I’m @Sam-Golpasand</li>
-  <li>❤️ I love Creating webapps and mobile apps in NextJS and React Native</li>
-  <li>🌱 I’m currently learning how to implement AI to some of my projects</li>
-  <li>💼 I'm a Full Stack developer.</li>
-  <li>🧐 Portfolio Website, https://samgolpasand.com </li>
-</ul>
-
-#### A little more about me
-```javascript
-const Sam = {
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  askMeAbout: ["Full-Stack", "web dev", "AI"],
-  technologies: {
-      frontend: ["React", "HTML", "CSS", "Javascript", "Tailwind", "Bootstrap"],
-      backend: ["NextJS", "Flask"],
-      database: ["Supabase", "SQL"],
-  }
-}
+```zsh
+> neofetch
 ```
-<!--
-#### Popular Projects
-<a href="https://github.com/Sam-Golpasand/Sneaker76">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-Golpasand&repo=Sneaker78k&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
--->
 
+<img align="left" src="https://avatars.githubusercontent.com/u/74829295?v=4" alt="Me lol" width="320" /> 
+
+```csharp
+Sam-Golpasand@github
+-------------------------
+OS: Fedora
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Copenhagen Denmark
+Languages: JavaScript, TypeScript,
+           Java, SQL, C, php
+           HTML, CSS
+Hobbies: Homelabbing, Climbing, Cutting hair, Japanese
+Discord: samtheman11230
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
